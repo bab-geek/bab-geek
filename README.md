@@ -51,7 +51,7 @@ Here’s a glimpse of what I’ve been building:
  🤝 Let’s Connect
 - 📫 Email: busslusa84@gmail.com
 - 🐦 X: https://x.com/busslus
-  LinkedIn:https://www.linkedin.com/in/bussllus-bertrand-b99b1b36b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+  LinkedIn:www.linkedin.com/in/bussllus-bertrand
 
 
 
