@@ -16,7 +16,9 @@ Here’s my toolkit for tackling tech challenges:
 - Languages: Python, SQL, JavaScript, HTML
 - Databases: MySQL, PostgreSQL
 - Data Tools: Excel (Pivot Tables, Power Query), PowerBI, Tableau
-- Networking & Cybersecurity**: Network Security, Routing & Switching, Malware Detection, Incident Response
+- Networking & Cybersecurity: Network Security, Routing & Switching, Malware Detection, Incident Response
+- Cloud: AWS Certified Cloud Practitioner
+- AI: Currently Working on getting AWS AI Practitioner certifiacte
 - Other: Project Management, Cloud Networking, Oracle Opera, Symphony
 
 
