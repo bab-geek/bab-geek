@@ -6,8 +6,8 @@
 🌍 About Me
 - 📍 Based in Nairobi, Kenya
 - 💻 Specializing in Data Analysis, IT Support, and System Optimization
-- 🌱 Currently learning Advanced Cloud Networking and Machine Learning with Python
-- 🎯 Goal for 2025: Contribute to open-source data analytics projects and build a dashboard for real-time safety analytics
+- 🌱 Currently learning cloud computing and Machine Learning with Python
+- 🎯 Goal for 2026: Contribute to open-source data analytics projects and build cloud projects
 - 🎨 Fun fact: I once debugged a POS system during a blackout with nothing but a flashlight and sheer determination!
 
 
