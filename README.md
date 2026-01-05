@@ -46,12 +46,13 @@ Here’s a glimpse of what I’ve been building:
 - 📈 Boosted organic traffic by 45% through SEO-optimized content at Safety Plus Consulting Limited.
 - 💻 Reduced system failures by 50% and saved $54K annually by streamlining IT support at Seasons Airport Hotel.
 - 🎓 Earned a Bachelor of Science in Information Technology from Multimedia University of Kenya.
-- 🛡️ Certified in Cisco Cyber Security Essentials.
+- 🛡️ Certified in Cisco Cyber Security Essentials, AWS CCP and many others.
 
  🤝 Let’s Connect
 - 📫 Email: busslusa84@gmail.com
 - 🐦 X: https://x.com/busslus
   LinkedIn:www.linkedin.com/in/bussllus-bertrand
+  Whatsapp +254790827087
 
 
 
