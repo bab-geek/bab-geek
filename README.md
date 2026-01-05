@@ -52,7 +52,7 @@ Here’s a glimpse of what I’ve been building:
 - 📫 Email: busslusa84@gmail.com
 - 🐦 X: https://x.com/busslus
   LinkedIn:www.linkedin.com/in/bussllus-bertrand
-  Whatsapp +254790827087
+   Whatsapp +254790827087
 
 
 
