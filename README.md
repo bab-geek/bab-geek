@@ -18,7 +18,7 @@ Here’s my toolkit for tackling tech challenges:
 - Data Tools: Excel (Pivot Tables, Power Query), PowerBI, Tableau
 - Networking & Cybersecurity: Network Security, Routing & Switching, Malware Detection, Incident Response
 - Cloud: AWS Certified Cloud Practitioner
-- AI: Currently Working on getting AWS AI Practitioner certifiacte
+- AI: Currently Working on getting AWS AI Practitioner certificate
 - Other: Project Management, Cloud Networking, Oracle Opera, Symphony
 
 
